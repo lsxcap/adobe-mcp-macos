@@ -1,4 +1,4 @@
-# PS / AI 连 Codex 画图
+# PS / AI 连 Codex 画图 · Mac 版
 
 把这个链接发给 Codex，让它帮你安装；安装完成后，可以用中文指令操作 Photoshop 或 Adobe Illustrator。
 
